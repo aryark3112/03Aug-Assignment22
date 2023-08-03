@@ -13,17 +13,17 @@ namespace _03AugAssignment22
             Source source = new Source()
             {
                 Id = 1,
-                Name = "Samsung",
-                Product = "M52"
+                Name = "IPhone",
+                Product = "Iphone14"
 
             };
 
             Destination destination = new Destination()
             {
-                Id = 2,
+                Id = 100,
                 Name = "",
                 Product = "",
-                Price = 21000.00
+                Price = 77654.89
             };
 
             Console.WriteLine("Source");
